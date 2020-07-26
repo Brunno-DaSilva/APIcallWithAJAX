@@ -15,7 +15,7 @@ Demonstrating a simple API call with AJAX utilizing OMDB API.
 
 ## Demo Link:
 
-Demo can be found deployed at the link: https://dasilvabrunotexas.github.io/APIcallWithAJAX/
+Demo can be found deployed at the link:https://brunno-dasilva.github.io/APIcallWithAJAX/
 
 
 ## Browser Limitation
